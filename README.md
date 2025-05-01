@@ -62,5 +62,3 @@ Feel free to connect on [LinkedIn](#) or follow on [GitHub](#).
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Let me know if you'd like a markdown version with a preview image or hosted demo link included.
