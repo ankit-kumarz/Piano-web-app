@@ -55,7 +55,10 @@ web-piano/
 ## 👨‍💻 Author
 
 Made with ❤️ by **Ankit Kumar**  
-Feel free to connect on [LinkedIn](#) or follow on [GitHub](#).
+
+Email: [your-ankitrajj1068@gmail.com]
+
+GitHub: [https://github.com/ankit-kumarz]
 
 ## 📄 License
 
