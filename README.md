@@ -2,7 +2,10 @@
 
 A fun and interactive web-based piano built using **HTML, CSS, and JavaScript**. Play piano keys using your **mouse** or **keyboard**, and control the **volume** using a slider. Fully responsive and designed for both desktop and mobile.
 
-![Web Piano Screenshot](preview.png) <!-- Optional: add a screenshot if available -->
+
+# Screenshot:-
+![Screenshot 2025-05-01 235043](https://github.com/user-attachments/assets/ca0b7066-a8d8-473b-aca8-221e17ee6219)
+
 
 ## 🧠 Features
 
