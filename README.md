@@ -42,7 +42,7 @@ web-piano/
 - Rotates layout on mobile screens for better usability
 - Scales down black and white keys for smaller devices
 
-## 🛠️ Setup Instructions
+## 🛠️ Setup Instructions:-
 
 1. Clone the repository:
    ```bash
