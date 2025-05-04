@@ -30,7 +30,7 @@ web-piano/
 └── tunes/            # Folder containing .wav sound files for each key
 ```
 
-## 🎮 Controls
+## 🎮 Controls-
 
 - **White Keys:** A, S, D, F, G, H, J, K, L, ;
 - **Black Keys:** W, E, T, Y, U, O, P
