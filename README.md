@@ -1,4 +1,4 @@
-# 🎹 Web Piano
+# 🎹 Web Piano-
 
 A fun and interactive web-based piano built using **HTML, CSS, and JavaScript**. Play piano keys using your **mouse** or **keyboard**, and control the **volume** using a slider. Fully responsive and designed for both desktop and mobile.
 
