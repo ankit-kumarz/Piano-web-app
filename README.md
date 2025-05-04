@@ -60,7 +60,7 @@ Email: [your-ankitrajj1068@gmail.com]
 
 GitHub: [https://github.com/ankit-kumarz]
 
-## 📄 License
+## 📄 License-
 
 This project is licensed under the [MIT License](LICENSE).
 
