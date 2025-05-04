@@ -37,7 +37,7 @@ web-piano/
 - **Volume:** Use the slider at the top-right
 - **Play Notes:** Click or hover with mouse, or press mapped keys on the keyboard
 
-## 📱 Responsive Design
+## 📱 Responsive Design-
 
 - Rotates layout on mobile screens for better usability
 - Scales down black and white keys for smaller devices
