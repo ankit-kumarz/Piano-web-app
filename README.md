@@ -52,7 +52,7 @@ web-piano/
 
 3. Open `index.html` in any modern browser and start playing!
 
-## 👨‍💻 Author
+## 👨‍💻 Author-
 
 Made with ❤️ by **Ankit Kumar**  
 
