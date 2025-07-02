@@ -8,7 +8,6 @@ A fun and interactive web-based piano built using **HTML, CSS, and JavaScript**.
 
 
 ## 🧠 Features
-
 - 🎼 Interactive white and black piano keys
 - ⌨️ Keyboard support (mapped to corresponding keys) 
 - 🔊 Volume control slider
