@@ -64,4 +64,4 @@ GitHub: [https://github.com/ankit-kumarz]
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+--- 
