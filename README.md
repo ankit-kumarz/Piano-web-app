@@ -39,7 +39,7 @@ web-piano/
 
 ## 📱 Responsive Design-
 
-- Rotates layout on mobile screens for better usability
+- Rotates layout on mobile screens for better usability 
 - Scales down black and white keys for smaller devices
  
 ## 🛠️ Setup Instructions:-
