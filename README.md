@@ -53,7 +53,7 @@ web-piano/
 
 ## 👨‍💻 Author-
 
-Made with ❤️ by **Ankit Kumar**  
+Made with ❤️ by **Ankit Kumar** 
 
 Email: [your-ankitrajj1068@gmail.com]
 
